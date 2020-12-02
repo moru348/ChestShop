@@ -6,7 +6,7 @@ With this you can easily create a store in the chest without losing your balance
 ## Features
 
 ### Introduction of sales tax elements
-Every time you make a purchase, sales tax is deducted and you can make utilities that day with sales tax!
+By introducing a concept such as consumption tax, you can use the consumption tax collected from the player in various ways such as installing public facilities!
 
 ### Original currency
 Can be in solidarity with the Economic Plugin using the Vault, and you can also set up original items like DIAMOND, EMERALD, etc. in transit!
