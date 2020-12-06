@@ -1,7 +1,7 @@
 # ChestShop
 
 Farewell to the days of setting trade content to the villagers on command!
-With this can easily create a store in the chest without losing your balance!
+With this can easily create a store in the chest without losing game balance!
 
 ## Features
 
